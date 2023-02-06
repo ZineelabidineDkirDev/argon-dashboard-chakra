@@ -62,9 +62,6 @@ The documentation for the Argon Dashboard Chakra is hosted at our [website](http
 
 Within the download you'll find the following directories and files:
 
-```
-## Project Mapping 
-
 
 argon-dashboard-chakra/
 ├── .gitattributes
